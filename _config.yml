@@ -1,7 +1,18 @@
+layout_spectrum: 0.5028744270093739
+typography_spectrum: 0.7343144237529486
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.8191232127137482
+  lightness: 0.9773456291295588
+  saturation: 0.6781400912441313
+  rhythmicContrast: 0.972681493498385
 name: Break Free Apparel
 favicon: null
-layout_spectrum: 0.5095458102878183
-typography_spectrum: 0.9580995792057365
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.49177162325941026
-  lightness: 0.20226564188487828
-  saturation: 0.9472846831195056
-  rhythmicContrast: 0.7199768596328795
 purpose: []
