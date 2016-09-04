@@ -1,4 +1,3 @@
-layout_spectrum: 0.5028744270093739
 typography_spectrum: 0.7343144237529486
 color:
   brandColors:
@@ -11,18 +10,22 @@ color:
   lightness: 0.9773456291295588
   saturation: 0.6781400912441313
   rhythmicContrast: 0.972681493498385
-name: Break Free Apparel
-favicon: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5028744270093739
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d50361ad-9504-4203-a72c-8fe3bf652d99.jpg
+name: Break Free Apparel
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f279b8c5-b0ba-43ca-b83f-9eebef2b90db.jpg
 purpose: []
